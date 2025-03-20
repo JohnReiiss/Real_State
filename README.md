@@ -1,7 +1,7 @@
 # Bem-vindo ao Projeto Real State 🏠
 
 ## Página Inicial
-<img width="950" alt="Real State Home" src="https://github.com/JohnReiiss/Real_State/assets/6eb34e66-0f95-4f83-a39a-e8c1d7c8c606" />
+![WhatsApp Image 2025-03-19 at 09 07 04](https://github.com/user-attachments/assets/7e3248eb-16a0-4ddf-8c74-f1cf364022f7)
 
 A página inicial do projeto simula um site de imobiliária com um design moderno e funcional, com um menu de navegação modular que eu criei e inclui em todas as páginas, facilitando o acesso às seções de cadastro de imóveis e listagem de imóveis cadastrados. A navegação foi construída com base em uma estrutura de HTML bem organizada.
 
@@ -69,5 +69,3 @@ Se desejar discutir o projeto ou aprender mais sobre o desenvolvimento, entre em
 Obrigado por explorar o projeto! 🚀
 
 ---
-
-Esse README reflete as informações que você me forneceu e o modelo do seu repositório! Caso queira fazer algum ajuste, estou à disposição para ajudar.
