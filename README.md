@@ -8,12 +8,14 @@ A página inicial do projeto simula um site de imobiliária com um design modern
 ---
 
 ## Cadastro de Imóveis
-<img width="950" alt="Cadastro de Imóveis" src="https://github.com/JohnReiiss/Real_State/assets/4a4ce8be-0a87-49d1-a0e6-ffb36933e8c1" />
+![WhatsApp Image 2025-03-19 at 09 10 08](https://github.com/user-attachments/assets/52750b5d-d6e8-4f71-a99d-795106981014)
 
 Na seção "Cadastro de Imóveis", implementei um formulário funcional que permite a inserção de imóveis no banco de dados, com campos específicos para o endereço, preço e características do imóvel. Todo o processo foi realizado com PHP e SQL, armazenando as informações no banco de dados de forma eficiente.
 
 ---
 ## Recursos extras e experiência do usuário 🔍
+![WhatsApp Image 2025-03-19 at 09 08 53](https://github.com/user-attachments/assets/f7bb9821-9216-4222-8f6f-e2ad856a866b)
+![WhatsApp Image 2025-03-19 at 09 09 52](https://github.com/user-attachments/assets/e6b9229f-2d8c-4799-8717-494d06e881b9)
 
 Neste projeto fiz questão de adicionar alguns recursos interessantes, como uma barra de pesquisa no index.php, para que os usuários se sentissem à vontade para buscar pelos imóveis que se interessarem, usando termos como endereço, nome da cidade ou CEP. Esses termos são capturados através de um fetch que realiza uma requisição via AJAX para que a página não precise ser recarregada. Após isso, o servidor retorna a resposta desta requisição em JSON e, por fim, esse resultado é exibido dinamicamente no front-end.
 
@@ -24,14 +26,14 @@ Outro recurso interessante que adicionei são os botões de filtro da página qu
 Para uma experiência de usuário mais completa, adicionei uma lógica de mensagem de saudação, que funciona a partir do momento que o usuário faz login na página. Este método consulta os dados de usuário salvos no banco de dados e exibe uma mensagem de saudação ao usuário no header da página, além de alterar a saudação de acordo com a hora do dia, como "bom dia, boa tarde e boa noite + nome do usuário".
 
 ## Cadastro de Usuários
-<img width="950" alt="Cadastro de Usuários" src="https://github.com/JohnReiiss/Real_State/assets/00862824-93b8-4725-8983-bfd477cb9b67" />
+![WhatsApp Image 2025-03-19 at 09 08 16](https://github.com/user-attachments/assets/e86320cc-8d5f-4d0d-a2d3-55302ee46dc0)
 
 A seção de cadastro de usuários permite que os clientes criem contas para gerenciar os imóveis que estão oferecendo. A página foi desenvolvida com foco em praticidade e segurança, utilizando PHP para realizar o gerenciamento de contas e autenticação de usuários.
 
 ---
 
 ## Banco de Dados
-<img width="950" alt="Banco de Dados" src="https://github.com/JohnReiiss/Real_State/assets/f5b13f77-67fb-413d-a405-4ce0e5fcc09f" />
+![image](https://github.com/user-attachments/assets/2ec774a5-ffd7-444a-afe7-97339d28d956)
 
 O banco de dados foi estruturado para armazenar os dados de imóveis e usuários, facilitando a manutenção e consulta dos dados. A integração entre o front-end e o banco de dados foi feita utilizando PHP e MySQL, garantindo um fluxo contínuo de informações.
 
