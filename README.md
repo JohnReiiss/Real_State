@@ -13,14 +13,15 @@ A página inicial do projeto simula um site de imobiliária com um design modern
 Na seção "Cadastro de Imóveis", implementei um formulário funcional que permite a inserção de imóveis no banco de dados, com campos específicos para o endereço, preço e características do imóvel. Todo o processo foi realizado com PHP e SQL, armazenando as informações no banco de dados de forma eficiente.
 
 ---
-## Recursos extras e experiência do usuário  🔍
+## Recursos extras e experiência do usuário 🔍
 
+Neste projeto fiz questão de adicionar alguns recursos interessantes, como uma barra de pesquisa no index.php, para que os usuários se sentissem à vontade para buscar pelos imóveis que se interessarem, usando termos como endereço, nome da cidade ou CEP. Esses termos são capturados através de um fetch que realiza uma requisição via AJAX para que a página não precise ser recarregada. Após isso, o servidor retorna a resposta desta requisição em JSON e, por fim, esse resultado é exibido dinamicamente no front-end.
 
-Neste projeto fiz questão de adicionar alguns recursos interessantes, como uma barra de pesquisa no index.php, para que os usuários se sentissem a vontade para buscar pelos imóveis que se interessarem, usando termos como endereço, nome da cidade ou CEP, esses termos são capturados através de um fetch que realiza uma requisição via AJAX para que a página não precise ser recarregada, após isso o servidor retorna a resposta desta requisição em JSON e por fim esse resultado é exibido dinamicamente no front end.
-Esta mesma barra de pesquisa possui um texto placeholder auto digitável em looping, implementei essa lógica através da função JS typeEffect, o que permite que o usuário tenha uma experiência melhorada no site.
-Outro recurso interessante que adicionei são os botões de filtro da página que lista os imóveis cadastrados, eles são filtros de categoria, ex: casa, apartamento, cobertura, etc. Esses botões funcionam de maneira semelhante a barra de pesquisa, o usuário precisa apenas interagir com eles, para que eles exibam os imóveis que se enquandram nessas condições de filtro.
-Para uma experiência de usuário mais completa, eu adicionei uma lógica de mensagem de saudação, que funciona a partir do momento que o usuário loga na página, este método consulta o os dados de usuário salvos no banco de dados e exibe uma mensagem de saudação ao usuário no header da página, além de alterar a saudação de acordo com a hora do dia, "bom dia, boa tarde e boa noite + nome do usuário".
----
+Esta mesma barra de pesquisa possui um texto placeholder auto digitável em looping. Implementei essa lógica através da função JS typeEffect, o que permite que o usuário tenha uma experiência melhorada no site.
+
+Outro recurso interessante que adicionei são os botões de filtro da página que lista os imóveis cadastrados. Eles são filtros de categoria, ex: casa, apartamento, cobertura, etc. Esses botões funcionam de maneira semelhante à barra de pesquisa, onde o usuário precisa apenas interagir com eles para que exibam os imóveis que se enquadram nessas condições de filtro.
+
+Para uma experiência de usuário mais completa, adicionei uma lógica de mensagem de saudação, que funciona a partir do momento que o usuário faz login na página. Este método consulta os dados de usuário salvos no banco de dados e exibe uma mensagem de saudação ao usuário no header da página, além de alterar a saudação de acordo com a hora do dia, como "bom dia, boa tarde e boa noite + nome do usuário".
 
 ## Cadastro de Usuários
 <img width="950" alt="Cadastro de Usuários" src="https://github.com/JohnReiiss/Real_State/assets/00862824-93b8-4725-8983-bfd477cb9b67" />
