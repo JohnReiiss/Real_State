@@ -54,7 +54,6 @@ if (isset($_GET['id'])) {
                 </div>
 
                 <!-- Detalhes do Imóvel -->
-<<<<<<< HEAD
                 <form action="update_property.php" method="POST" id="propertyForm">
                     <!-- Campo oculto para o ID do imóvel -->
                     <input type="hidden" name="id" value="<?= $property['id'] ?>">
@@ -125,35 +124,6 @@ if (isset($_GET['id'])) {
                 </dialog>
 
 
-=======
-                <div class="property-details">
-                    <div class="details-grid">
-                        <div><strong>Tipo:</strong> <?= $property['type'] ?></div>
-                        <div><strong>Endereço:</strong> <?= $property['address'] ?></div>
-                        <div><strong>Cidade:</strong> <?= $property['city'] ?></div>
-                        <div><strong>CEP:</strong> <?= $property['postal_code'] ?></div>
-                        <div><strong>Bairro:</strong> <?= $property['neighborhood'] ?></div>
-                        <div><strong>WhatsApp do proprietário:</strong> <?= $property['owner_whatsapp'] ?></div>
-                        <div><strong>Email do proprietário:</strong> <?= $property['owner_email'] ?></div>
-
-                        <?php if ($property['property_status'] == 'aluguel'): ?>
-                            <div><strong>Aluguel:</strong> R$ <?= number_format($property['rent_value'], 2, ',', '.') ?></div>
-                        <?php elseif ($property['property_status'] == 'venda'): ?>
-                            <div><strong>Valor de Venda:</strong> R$ <?= number_format($property['sale_value'], 2, ',', '.') ?></div>
-                        <?php endif; ?>
-
-                        <div><strong>Vagas de Garagem:</strong> <?= $property['garage_spaces'] ?></div>
-                        <div><strong>Quartos:</strong> <?= $property['bedrooms'] ?></div>
-                        <div><strong>Banheiros:</strong> <?= $property['bathrooms'] ?></div>
-                        <div><strong>Área (m²):</strong> <?= $property['area'] ?> m²</div>
-
-                        <!-- Exibição do valor de condomínio se aplicável -->
-                        <?php if ($property['condominium'] == 1): ?>
-                            <div><strong>Valor do Condomínio:</strong> R$ <?= number_format($property['condominium_value'], 2, ',', '.') ?></div>
-                        <?php endif; ?>
-                    </div>
-                </div>
->>>>>>> origin/main
             </main>
 
             <script>
@@ -180,14 +150,8 @@ if (isset($_GET['id'])) {
 include('../includes/footer.php');
     ?>
 
-<<<<<<< HEAD
     <script src="../assets/js/editableField.js"></script>
     <script src="../assets/js/deleteModal.js"></script>
         </body>
 
         </html>
-=======
-        </body>
-
-        </html>
->>>>>>> origin/main
