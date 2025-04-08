@@ -45,6 +45,17 @@ A principal mudança do código anterior para a versão atual, foi a adição de
 
 ![image](https://github.com/user-attachments/assets/b536d4d8-407a-45be-9d4c-132e04948aae)
 
+![image](https://github.com/user-attachments/assets/c8acf32c-a1f7-4d9c-b5f6-515eaab192bf)
+
+![image](https://github.com/user-attachments/assets/5eb6143f-1687-4ed8-9d04-881bb7bd5d16)
+
+![image](https://github.com/user-attachments/assets/3dcf9db8-301c-4ff8-a4f4-e2991d498b5e)
+
+Esse código também traz alterações no front end, mais especificamente de design do site para melhorar a usabilidade e experiência com a aplicação web, os h2 de cada carrossel foram reposicionados e centralizados com posição fixa e absoluta para melhor organização dos elementos entre as seções.
+
+![image](https://github.com/user-attachments/assets/5b43d6c0-40a0-4169-8208-f0c971bd36cb)
+
+![image](https://github.com/user-attachments/assets/bcf3f90b-fede-4b14-94f8-34ed7b9e3aaa)
 
 ---
 
