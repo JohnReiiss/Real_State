@@ -13,7 +13,6 @@ if (isset($_SESSION['user_id'])) {
     } else {
         $saudacao = "Boa noite";
     }
-
     $mensagemSaudacao = "$saudacao, " . $_SESSION['user_name'] . "!";
 } else {
     $mensagemSaudacao = "Bem-vindo à Imobiliária Nara";
@@ -22,7 +21,6 @@ if (isset($_SESSION['user_id'])) {
 
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <!-- Bootstrap Icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
@@ -33,7 +31,6 @@ if (isset($_SESSION['user_id'])) {
     <link rel="stylesheet" href="../assets/css/global.css">
     <link rel="stylesheet" href="../assets/css/header.css">
 </head>
-
 <body>
     <header>
         <nav>
