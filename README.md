@@ -40,7 +40,7 @@ O banco de dados foi estruturado para armazenar os dados de imóveis e usuários
 ---
 
 ## O que mudou com a atualização 0.1.1?
-A principal mudança do código anterior para a versão atual, foi a adição de uma página para realizar o update das informações do usuário "dados_usuario.php", essa página não só é responsável por permitir ao usuário alterar seus dados cadastrais como e-mail, nome de usuário e senha, como também utiliza uma verificação de seção  e de usuário ativos para buscar no banco de dados os imóveis vinculados aquele usuário para exibir eles de maneira dinãmica como pode ser visto na imagem, através das queryes de consulta nos documentos php que processam esses dados, eles podem ser alterados, excluídos ou exibidos no front end.
+A principal mudança do código anterior para a versão atual, foi a adição de uma página para realizar o update das informações do usuário "dados_usuario.php", essa página não só é responsável por permitir ao usuário alterar seus dados cadastrais como e-mail, nome de usuário e senha, como também utiliza uma verificação de seção e de usuários ativos para buscar no banco de dados os imóveis vinculados a determinado usuário e então exibir eles de maneira dinâmica como pode ser visto na imagem, através das queryes de consulta nos documentos php que processam esses dados, eles podem ser alterados, excluídos ou exibidos no front end.
 ![image](https://github.com/user-attachments/assets/704b2862-9c63-4672-84ba-0ae11f5b3442)
 
 ![image](https://github.com/user-attachments/assets/b536d4d8-407a-45be-9d4c-132e04948aae)
