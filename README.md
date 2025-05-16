@@ -89,12 +89,14 @@ git clone https://github.com/JohnReiiss/Real_State.git
 
 ---
 
-## Contato
-Se desejar discutir o projeto ou aprender mais sobre o desenvolvimento, entre em contato:
+## ✉️ Contato
 
+- **Desenvolvedor**: [Johnatan dos Santos Reis]  
 - **E-mail:** johnatan.reiiss@icloud.com
-- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-hayabusa)
-- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)
+- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
+- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)  
+
+---
 
 Obrigado por explorar o projeto! 🚀
 
