@@ -1,5 +1,21 @@
 # Bem-vindo ao Projeto Real State 🏠
 
+## 🔧 Tecnologias Utilizadas
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+- **PHP**: Lógica do servidor e manipulação de dados.
+- **CSS**: Estilização da interface e responsividade.
+- **JavaScript**: Interatividade,validações de formulários requisições AJAX, JSON, etc.
+- **MySQL**: Banco de dados para armazenar informações de imóveis e usuários.
+
+---
+
 ## Página Inicial
 ![WhatsApp Image 2025-03-19 at 09 07 04](https://github.com/user-attachments/assets/7e3248eb-16a0-4ddf-8c74-f1cf364022f7)
 
@@ -56,22 +72,6 @@ Esse código também traz alterações no front end, mais especificamente de des
 ![image](https://github.com/user-attachments/assets/5b43d6c0-40a0-4169-8208-f0c971bd36cb)
 
 ![image](https://github.com/user-attachments/assets/bcf3f90b-fede-4b14-94f8-34ed7b9e3aaa)
-
----
-
-## 🔧 Tecnologias Utilizadas
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
-
-- **PHP**: Lógica do servidor e manipulação de dados.
-- **CSS**: Estilização da interface e responsividade.
-- **JavaScript**: Interatividade,validações de formulários requisições AJAX, JSON, etc.
-- **MySQL**: Banco de dados para armazenar informações de imóveis e usuários.
 
 ---
 
